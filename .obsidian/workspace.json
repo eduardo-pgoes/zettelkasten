@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa56db2471b53034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea66a82925dac445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202301281323 - systems of equations and the row-column pictures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faq.md",
+                "file": "linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faq.md",
+                "file": "linear algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faq.md"
+                "file": "linear algebra.md"
               }
             }
           }
@@ -147,15 +172,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "60556f2f1c97d716",
+  "active": "fa56db2471b53034",
   "lastOpenFiles": [
+    "202301281323 - systems of equations and the row-column pictures.md",
+    "linear algebra.md",
+    "faq.md",
     "index.md",
     "README.md",
     "maths.md",
     "trigonometry.md",
     "202301272341 - cosseno - soma e subtração de arcos.md",
     "202301272343 - identidades de paridade.md",
-    "202301272345 - identidades trigonométricas.md",
-    "202301272344 - identidades de cofunção.md"
+    "202301272345 - identidades trigonométricas.md"
   ]
 }
