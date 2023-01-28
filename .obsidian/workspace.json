@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db3a607a9f548530",
+        "id": "078673fc015f8b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "60556f2f1c97d716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "faq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa56db2471b53034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea66a82925dac445",
+            "id": "a7cf3b9dd05a9730",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra.md",
+                "file": "202301281323 - systems of equations and the row-column pictures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra.md",
+                "file": "202301281323 - systems of equations and the row-column pictures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra.md"
+                "file": "202301281323 - systems of equations and the row-column pictures.md"
               }
             }
           }
@@ -172,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fa56db2471b53034",
+  "active": "a7cf3b9dd05a9730",
   "lastOpenFiles": [
+    "portal-notes/maths/linear algebra.md",
+    "portal-notes/maths/trigonometry.md",
+    "portal-notes/maths/maths.md",
     "202301281323 - systems of equations and the row-column pictures.md",
-    "linear algebra.md",
     "faq.md",
+    "202301272345 - identidades trigonométricas.md",
     "index.md",
     "README.md",
-    "maths.md",
-    "trigonometry.md",
     "202301272341 - cosseno - soma e subtração de arcos.md",
-    "202301272343 - identidades de paridade.md",
-    "202301272345 - identidades trigonométricas.md"
+    "202301272343 - identidades de paridade.md"
   ]
 }

@@ -11,9 +11,7 @@ that's the row picture.
 
 the column picture would state this same system of equations as a linear cominbations of columns (...or vectors):
 
-$$u \left( \matrix{ 2 \cr 4 \cr -2} \right)
-+ v \left( \matrix{ 1 \cr -6 \cr 7} \right)
-+ w \left( \matrix{ 0 \cr 7 \cr 2} \right)
-= \left( \matrix{ 3 \cr -2 \cr 9} \right)
+$$
+u \left( \matrix{ 2 \cr 4 \cr -2} \right) + v \left( \matrix{ 1 \cr -6 \cr 7} \right) + w \left( \matrix{ 0 \cr 7 \cr 2} \right) = \left( \matrix{ 3 \cr -2 \cr 9} \right)
 $$
 ... which such combination of vectors result in the following vector? each such vector is a system solution.
