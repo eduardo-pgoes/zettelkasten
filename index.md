@@ -1,9 +1,8 @@
-# Neuron Template
+# Landing Page
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Hello, welcome to my zettelkasten :)
+Here, I'll add everything that I have on my personal "knowledge bank". 
 
-Get started by reading [[README]]#.
+while I don't learn to use this correctly, I'll leave this fixed in the home page so I learn: https://neuron.zettel.page/guide
 
-Other pages on this zettelkasten:
-
-- [[faq]]#
+- [[maths]]#

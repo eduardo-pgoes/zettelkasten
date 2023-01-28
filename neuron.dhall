@@ -1,9 +1,9 @@
 -- Documentation for neuron.dhall: https://neuron.zettel.page/configuration
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template/"
+{ siteTitle = "Eduardo's Zettenkasten"
+, author = Some "Eduardo Goes"
+, siteBaseUrl = Some "https://eduardo-pgoes.github.io/zettelkasten/"
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
-, theme = "teal"
+, theme = "violet"
 -- This is used in the "edit" button
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, editUrl = Some "https://eduardo-pgoes.github.io/zettelkasten/edit/master/"
 }

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "af094329b80f9b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3a607a9f548530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60556f2f1c97d716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "faq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb013c31238288ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea24b6084691a672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1c07b5cfdd2d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5199a85794e19c35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c58e521b7982243",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbfdddbe23decda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "311f50336312d356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29bcc4ee1ba04417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "faq.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "742a83d4d962ffa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "faq.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ca99a5f1c4c84e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc74a111575118d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "faq.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "60556f2f1c97d716",
+  "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "maths.md",
+    "trigonometry.md",
+    "202301272341 - cosseno - soma e subtração de arcos.md",
+    "202301272343 - identidades de paridade.md",
+    "202301272345 - identidades trigonométricas.md",
+    "202301272344 - identidades de cofunção.md"
+  ]
+}
