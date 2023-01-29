@@ -1,3 +1,4 @@
-[[202301272341 - cosseno - soma e subtração de arcos]]#
-[[202301272344 - identidades de cofunção]]#
-[[202301272343 - identidades de paridade]]#
+- [[202301272341 - cosseno - soma e subtração de arcos]]#
+- [[202301272344 - identidades de cofunção]]#
+- [[202301272343 - identidades de paridade]]#
+- [[202301292052 - identidades de redução de expoente]]#

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc07bcf8b51bfb9a",
+        "id": "7f20f170d48d1f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d44d6ccb6821f9ee",
+            "id": "5c0b34ef2d9efd9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202301272345 - identidades trigonométricas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202301272345 - identidades trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202301272345 - identidades trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202301272345 - identidades trigonométricas.md"
+              }
             }
           }
         ]
@@ -139,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d44d6ccb6821f9ee",
+  "active": "5c0b34ef2d9efd9a",
   "lastOpenFiles": [
+    "portal-notes/maths/trigonometry.md",
+    "202301272345 - identidades trigonométricas.md",
+    "202301292052 - identidades de redução de expoente.md",
     "portal-notes/computer science/programming utils (bash, editors...).md",
     "portal-notes/chemistry/chemistry.md",
     "physical chemistry.md",
     "202301291929 - soluções.md",
     "portal-notes/computer science/computer science.md",
     "index.md",
-    "README.md",
-    "202301272343 - identidades de paridade.md",
-    "static/README.md",
-    "202301272344 - identidades de cofunção.md"
+    "README.md"
   ]
 }
