@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "beff4a40c7e9176e",
+        "id": "bc07bcf8b51bfb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff63d412db262b8f",
+            "id": "d44d6ccb6821f9ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f622699a44b521f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "static/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +139,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ff63d412db262b8f",
+  "active": "d44d6ccb6821f9ee",
   "lastOpenFiles": [
-    "portal-notes/physics/physics.md",
+    "portal-notes/computer science/programming utils (bash, editors...).md",
+    "portal-notes/chemistry/chemistry.md",
+    "physical chemistry.md",
+    "202301291929 - soluções.md",
+    "portal-notes/computer science/computer science.md",
     "index.md",
-    "faq.md",
-    "202301282132 - campo elétrico.md",
-    "portal-notes/physics/electromag.md",
+    "README.md",
+    "202301272343 - identidades de paridade.md",
     "static/README.md",
-    "portal-notes/maths/trigonometry.md",
-    "portal-notes/maths/maths.md",
-    "portal-notes/maths/linear algebra.md",
-    "202301281323 - systems of equations and the row-column pictures.md"
+    "202301272344 - identidades de cofunção.md"
   ]
 }

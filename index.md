@@ -7,4 +7,4 @@ while I don't learn to use this correctly, I'll leave this fixed in the home pag
 
 - [[maths]]#
 - [[physics]]#
-
+- [[chemistry]]#
