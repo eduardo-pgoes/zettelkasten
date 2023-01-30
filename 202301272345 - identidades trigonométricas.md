@@ -2,3 +2,4 @@
 - [[202301272344 - identidades de cofunção]]#
 - [[202301272343 - identidades de paridade]]#
 - [[202301292052 - identidades de redução de expoente]]#
+- [[202301292057 - seno - identidades de soma e subtração de arco]]

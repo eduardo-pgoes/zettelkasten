@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portal-notes/maths/trigonometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a826661c34f94407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202301292057 - identidades de soma-diferença de seno.md",
+                "file": "202301272345 - identidades trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202301292057 - identidades de soma-diferença de seno.md",
+                "file": "202301272345 - identidades trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202301292057 - identidades de soma-diferença de seno.md",
+                "file": "202301272345 - identidades trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202301292057 - identidades de soma-diferença de seno.md"
+                "file": "202301272345 - identidades trigonométricas.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a826661c34f94407",
+  "active": "b2ab2af78c0c183b",
   "lastOpenFiles": [
+    "202301292059 - identidades de arco duplo.md",
+    "202301272345 - identidades trigonométricas.md",
+    "202301292057 - seno - identidades de soma e subtração de arco.md",
     "portal-notes/maths/trigonometry.md",
     "index.md",
     "portal-notes/maths/linear algebra.md",
-    "202301272345 - identidades trigonométricas.md",
     "202301292052 - identidades de redução de expoente.md",
     "portal-notes/computer science/programming utils (bash, editors...).md",
     "portal-notes/chemistry/chemistry.md",
-    "physical chemistry.md",
-    "202301291929 - soluções.md",
-    "portal-notes/computer science/computer science.md"
+    "physical chemistry.md"
   ]
 }
