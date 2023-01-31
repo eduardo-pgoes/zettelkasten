@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3435c8df12f1ced0",
+        "id": "cb83a038c5652d24",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ab2af78c0c183b",
+            "id": "7dd206413635192b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202301272345 - identidades trigonométricas.md",
+                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202301272345 - identidades trigonométricas.md",
+                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202301272345 - identidades trigonométricas.md",
+                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202301272345 - identidades trigonométricas.md"
+                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b2ab2af78c0c183b",
+  "active": "7dd206413635192b",
   "lastOpenFiles": [
-    "202301292059 - identidades de arco duplo.md",
-    "202301272345 - identidades trigonométricas.md",
-    "202301292057 - seno - identidades de soma e subtração de arco.md",
-    "portal-notes/maths/trigonometry.md",
-    "index.md",
-    "portal-notes/maths/linear algebra.md",
-    "202301292052 - identidades de redução de expoente.md",
-    "portal-notes/computer science/programming utils (bash, editors...).md",
+    "202301310824 - atomística.md",
+    "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
+    "202301310828 - o modelo de Rutherford.md",
+    "202301310825 - o modelo de Thomson.md",
     "portal-notes/chemistry/chemistry.md",
-    "physical chemistry.md"
+    "portal-notes/chemistry/general chemistry.md",
+    "202301272345 - identidades trigonométricas.md",
+    "202301292059 - identidades de arco duplo.md",
+    "202301292057 - seno - identidades de soma e subtração de arco.md",
+    "portal-notes/maths/trigonometry.md"
   ]
 }
