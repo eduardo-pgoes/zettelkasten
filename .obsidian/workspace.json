@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb83a038c5652d24",
+        "id": "83d86beb246c12da",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd206413635192b",
+            "id": "b1fb53a3174f0b9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
+                "file": "202301310824 - atomística.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
+                "file": "202301310824 - atomística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
+                "file": "202301310824 - atomística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md"
+                "file": "202301310824 - atomística.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7dd206413635192b",
+  "active": "b1fb53a3174f0b9c",
   "lastOpenFiles": [
+    "portal-notes/chemistry/general chemistry.md",
+    "202301310936 -  lei de Wien, lei de Stefan-Boltzmann, catástrofe do ultravioleta, Planck e o efeito fotoelétrico.md",
+    "Untitled.md",
     "202301310824 - atomística.md",
     "202301310830 - linhas espectrais, constante de Rydberg, séries de Balmer e Lyner....md",
     "202301310828 - o modelo de Rutherford.md",
     "202301310825 - o modelo de Thomson.md",
     "portal-notes/chemistry/chemistry.md",
-    "portal-notes/chemistry/general chemistry.md",
     "202301272345 - identidades trigonométricas.md",
-    "202301292059 - identidades de arco duplo.md",
-    "202301292057 - seno - identidades de soma e subtração de arco.md",
-    "portal-notes/maths/trigonometry.md"
+    "202301292059 - identidades de arco duplo.md"
   ]
 }
